@@ -18,6 +18,12 @@ This is a college assignment where we had to implement RestFUL web services usin
 * Version - 0.1.0
 * 'api' directory holds the class of RestFul web service controller and basic header authorization.
 
+### Additional Changes ###
+* Kafka Email Notification
+* Spring Scheduler for scheduling email notification.
+* MongoDb to persist data of Polls and Users.
+* Advanced Header Authorization.
+
 ### Setup Information ###
 
 * build.gradle file is already included in this project to resolve all the dependency.
